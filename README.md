@@ -1,2 +1,1 @@
-# 한이음 엑스포 2014
-
+Life Management System For A Senior Citizen Who Lives Alone
