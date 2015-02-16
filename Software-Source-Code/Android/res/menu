@@ -1,0 +1,25 @@
+/*
+#파일명 : main.xml
+#개발환경 : eclipse android(Android  Platform 4.3 , API Level 18)
+#개발기간 : 2014.04.01 ~ 2014.11.30
+#프로젝트명 : Silver세대를 위한 Life Management System
+#팀명 : YANA (You Are Not Alone)
+#멘토 : 삼성전자 무선사업부 임요왕
+#멘티 : 인천대학교 임승한
+        인천대학교 권상희
+        인천대학교 임미리
+        인하대학교 조형관
+#프로젝트 개요 : 
+독거노인 움직임 여부 기록을 통한 고독사 예방 시스템
+#프로젝트 영상 : https://www.youtube.com/watch?v=J71-gAI3XXQ
+*/
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
