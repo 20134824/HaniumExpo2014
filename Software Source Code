@@ -1,0 +1,22 @@
+/*
+#개발기간 : 2014.04.01 ~ 2014.11.30
+#프로젝트명 : Silver세대를 위한 Life Management System
+#팀명 : YANA (You Are Not Alone)
+#멘토 : 삼성전자 무선사업부 임요왕
+#멘티 : 인천대학교 임승한
+        인천대학교 권상희
+        인천대학교 임미리
+        인하대학교 조형관
+#프로젝트 개요 : 
+독거노인 움직임 여부 기록을 통한 고독사 예방 시스템
+#사용된 H/W 장비 : 
+- Arduino UNO
+- Arduino WIFI Shield
+- RFID Reader module 
+- UST_RFID Tag Card
+- 적외선 센서
+- 고휘도 LED
+- 조도센서
++ Android Application
+#프로젝트 영상 : https://www.youtube.com/watch?v=J71-gAI3XXQ
+*/
